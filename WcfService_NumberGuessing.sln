@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService_NumberGuessing", "WcfService_NumberGuessing\WcfService_NumberGuessing.csproj", "{896F375D-FEAD-49E1-974A-FC05B790B194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms_NumberGuessing", "WindowsForms_NumberGuessing\WindowsForms_NumberGuessing.csproj", "{20255EBF-0AAE-4E74-837B-C7B51AFF8320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896F375D-FEAD-49E1-974A-FC05B790B194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896F375D-FEAD-49E1-974A-FC05B790B194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896F375D-FEAD-49E1-974A-FC05B790B194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896F375D-FEAD-49E1-974A-FC05B790B194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20255EBF-0AAE-4E74-837B-C7B51AFF8320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20255EBF-0AAE-4E74-837B-C7B51AFF8320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20255EBF-0AAE-4E74-837B-C7B51AFF8320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20255EBF-0AAE-4E74-837B-C7B51AFF8320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {370E4B36-333F-4F77-AFA3-D098E25841D5}
+	EndGlobalSection
+EndGlobal
